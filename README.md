@@ -1,1 +1,1 @@
-# armstrongnum
+# Armstrong Number Checker.
