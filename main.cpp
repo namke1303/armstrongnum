@@ -7,7 +7,7 @@ int main () {
     int x,r,sum=0;
     int pom;
     int cif;
-    cout<<"Unesi jedan broj : ";
+    cout<<"Enter one number : ";
     cin>>x;
     pom=x;
     while (pom>0)
@@ -24,10 +24,10 @@ int main () {
     }
     if (r==x)
     {
-        cout<<"Broj je armstrongov.\n";
+        cout<<"Number is armstrong number.\n";
     } else
     {
-       cout<<"Broj nije armstrongov.\n";
+       cout<<"Number is armstrong number.\n";
     }
     system("pause");
     return EXIT_SUCCESS;
